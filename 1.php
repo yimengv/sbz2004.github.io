@@ -1,1 +1,1 @@
-<?php system('tac 36d.php'); ?>
+<?php system('ls'); ?>
